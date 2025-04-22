@@ -1,5 +1,11 @@
 # The Raven’s Quill
 
+demo:https://huggingface.co/spaces/yiqing111/poe_gen
+
+presentation video: https://youtu.be/hTU7eLmwiOY
+
+PPT slide: https://docs.google.com/presentation/d/16ypGzE4T8IWoDvUSsWCPEIUn5wb3rh3
+
 ##  0. Project Overview
 
 The Raven’s Quill is a specialized text generation system that crafts short stories in the distinctive style of **Edgar Allan Poe**, the renowned 19th-century master of gothic horror and mystery. Our project explores multiple modeling approaches to capture Poe's unique literary voice, from simple statistical methods to advanced neural architectures.
