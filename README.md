@@ -4,7 +4,7 @@ demo:https://huggingface.co/spaces/yiqing111/poe_gen
 
 presentation video: https://youtu.be/hTU7eLmwiOY
 
-PPT slide: https://docs.google.com/presentation/d/16ypGzE4T8IWoDvUSsWCPEIUn5wb3rh3
+PPT slide: [https://docs.google.com/presentation/d/16ypGzE4T8IWoDvUSsWCPEIUn5wb3rh3](https://docs.google.com/presentation/d/16ypGzE4T8IWoDvUSsWCPEIUn5wb3rh3clyS9fnJ6hyk/edit?usp=sharing)
 
 ##  0. Project Overview
 
