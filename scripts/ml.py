@@ -1,18 +1,3 @@
-"""
-poe_ngram.py
-============
-
-• Train 2‑, 3‑, and 4‑gram language models on Poe’s works
-• Generate Poe‑style passages conditioned on simple metadata
-• Save / load models via Pickle
-• Export generated stories to JSON and TXT
-
-Author: <your‑name>
-"""
-
-# ───────────────────────────────────────────────────────────
-# Imports & folder setup
-# ───────────────────────────────────────────────────────────
 import os
 import re
 import json
