@@ -1,8 +1,8 @@
-# The Poe Engine
+# The Raven’s Quill
 
 ##  0. Project Overview
 
-The Poe Engine is a specialized text generation system that crafts short stories in the distinctive style of **Edgar Allan Poe**, the renowned 19th-century master of gothic horror and mystery. Our project explores multiple modeling approaches to capture Poe's unique literary voice, from simple statistical methods to advanced neural architectures.
+The Raven’s Quill is a specialized text generation system that crafts short stories in the distinctive style of **Edgar Allan Poe**, the renowned 19th-century master of gothic horror and mystery. Our project explores multiple modeling approaches to capture Poe's unique literary voice, from simple statistical methods to advanced neural architectures.
 
 Key innovations include:
 
